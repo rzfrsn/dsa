@@ -1,0 +1,33 @@
+/**
+ * Pattern : Sliding window - letter freq
+ * Time : O(n) | Space : O(1)
+ * LeetCode 567 - Permutation in String
+ */
+class Solution {
+    public boolean checkInclusion(String s1, String s2) {
+        if(s1.length() > s2.length()) return false;
+
+        int[] need = new int[26];
+        int[] window = new int[26];
+        int left = 0;
+
+        for(var c : s1.toCharArray()) {
+            need[c - 'a']++;
+        }
+
+        for(int right = 0; right < s2.length(); right++) {
+            window[s2.charAt(right) - 'a']++;
+
+            if(right - left + 1 > s1.length()) {
+                window[s2.charAt(left) - 'a']--;
+                left++;
+            }
+
+            if(right - left + 1 == s1.length() && Arrays.equals(need, window)) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+}

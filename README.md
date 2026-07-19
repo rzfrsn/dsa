@@ -30,15 +30,15 @@ dsa/
 
 ## 🚀 Progress
 
-| Pattern | Problems solved | Status        |
-|---|-----------------|---------------|
-| Arrays & Hashing | 9               | 🔥 Done       |
-| Two Pointers | 4               | 🔥 Done       |
-| Sliding Window | 3               | ✨ In progress |
-| Stack | 0               | ⏳ Upcoming    |
-| Binary Search | 0               | ⏳ Upcoming    |
-| Trees | 0               | ⏳ Upcoming    |
-| Graphs | 0               | ⏳ Upcoming    |
+| Pattern | Problems solved | Status     |
+|---|-----------------|------------|
+| Arrays & Hashing | 9               | 🔥 Done    |
+| Two Pointers | 4               | 🔥 Done    |
+| Sliding Window | 4               | 🔥 Done    |
+| Stack | 0               | ✨ Upcoming |
+| Binary Search | 0               | ⏳ Upcoming |
+| Trees | 0               | ⏳ Upcoming |
+| Graphs | 0               | ⏳ Upcoming |
 
 ---
 
@@ -66,8 +66,9 @@ dsa/
 | 11 | Container With Most Water | Medium | Two Pointers |
 
 ### Sliding Window
-| #   | Problem | Difficulty | Pattern                   |
-|-----|--|--------|---------------------------|
-| 121 | Best Time to Buy and Sell Stock | Easy   | Min sliding               |
-| 3   | Longest Substring Without Repeating Characters | Medium | Sliding Window            |
-| 424 | Longest Repeating Character Replacement | Medium | Sliding Window x Max freq |
+| #   | Problem                                        | Difficulty | Pattern                      |
+|-----|------------------------------------------------|--------|------------------------------|
+| 121 | Best Time to Buy and Sell Stock                | Easy   | Min sliding                  |
+| 3   | Longest Substring Without Repeating Characters | Medium | Sliding Window               |
+| 424 | Longest Repeating Character Replacement        | Medium | Sliding Window x Max freq    |
+| 567 | Permutation in String                          | Medium | Sliding Window x letter freq |
