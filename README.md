@@ -35,7 +35,7 @@ dsa/
 | Arrays & Hashing | 9               | 🔥 Done       |
 | Two Pointers | 4               | 🔥 Done       |
 | Sliding Window | 4               | 🔥 Done       |
-| Stack | 1               | ✨ In progress |
+| Stack | 2               | ✨ In progress |
 | Binary Search | 0               | ⏳ Upcoming    |
 | Trees | 0               | ⏳ Upcoming    |
 | Graphs | 0               | ⏳ Upcoming    |
@@ -74,6 +74,7 @@ dsa/
 | 567 | Permutation in String                          | Medium | Sliding Window x letter freq |
 
 ### Stack
-| #  | Problem           | Difficulty | Pattern                |
-|----|-------------------|--------|------------------------|
-| 20 | Valid Parentheses | Easy   | Stack - Macthing pairs |
+| #   | Problem           | Difficulty | Pattern                |
+|-----|-------------------|------------|------------------------|
+| 20  | Valid Parentheses | Easy       | Stack - Macthing pairs |
+| 155 | Min Stack         | Medium     | Stack - Min Stack      |
