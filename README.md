@@ -35,8 +35,8 @@ dsa/
 | Arrays & Hashing | 9               | 🔥 Done       |
 | Two Pointers | 4               | 🔥 Done       |
 | Sliding Window | 4               | 🔥 Done       |
-| Stack | 4               | ✨ In progress |
-| Binary Search | 0               | ⏳ Upcoming    |
+| Stack | 5               | 🔥 Done  |
+| Binary Search | 0               | ✨ In progress    |
 | Trees | 0               | ⏳ Upcoming    |
 | Graphs | 0               | ⏳ Upcoming    |
 
@@ -80,3 +80,4 @@ dsa/
 | 155 | Min Stack                        | Medium     | Stack - Min Stack                                            |
 | 150 | Evaluate Reverse Polish Notation | Medium     | Stack - push operands, pop two on operator, push result back |
 | 739 | Daily Temperatures               | Medium     | Stack - Monotonic Stack - decreasing                         |
+| 853 | Car Fleet                        | Medium     | Stack - Monotonic Stack - increasing                         |
