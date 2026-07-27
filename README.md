@@ -36,7 +36,7 @@ dsa/
 | Two Pointers | 4               | 🔥 Done       |
 | Sliding Window | 4               | 🔥 Done       |
 | Stack | 5               | 🔥 Done  |
-| Binary Search | 0               | ✨ In progress    |
+| Binary Search | 1               | ✨ In progress    |
 | Trees | 0               | ⏳ Upcoming    |
 | Graphs | 0               | ⏳ Upcoming    |
 
@@ -81,3 +81,8 @@ dsa/
 | 150 | Evaluate Reverse Polish Notation | Medium     | Stack - push operands, pop two on operator, push result back |
 | 739 | Daily Temperatures               | Medium     | Stack - Monotonic Stack - decreasing                         |
 | 853 | Car Fleet                        | Medium     | Stack - Monotonic Stack - increasing                         |
+
+### Binary Search
+| #   | Problem       | Difficulty | Pattern                             |
+|-----|---------------|------------|-------------------------------------|
+| 704 | Binary search | Easy       | left/right pointers, Mid comparison |
