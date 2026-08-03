@@ -36,7 +36,7 @@ dsa/
 | Two Pointers | 4               | 🔥 Done       |
 | Sliding Window | 4               | 🔥 Done       |
 | Stack | 5               | 🔥 Done  |
-| Binary Search | 4               | ✨ In progress    |
+| Binary Search | 5               | ✨ In progress    |
 | Trees | 0               | ⏳ Upcoming    |
 | Graphs | 0               | ⏳ Upcoming    |
 
@@ -83,9 +83,10 @@ dsa/
 | 853 | Car Fleet                        | Medium     | Stack - Monotonic Stack - increasing                         |
 
 ### Binary Search
-| #   | Problem             | Difficulty | Pattern                                             |
-|-----|---------------------|------------|-----------------------------------------------------|
-| 704 | Binary search       | Easy       | left/right pointers, Mid comparison                 |
-| 74  | Search a 2D Matrix  | Medium     | treat 2D matrix as flattened 1D array               |
+| #   | Problem             | Difficulty | Pattern |
+|-----|---------------------|------------|-|
+| 704 | Binary search       | Easy       | left/right pointers, Mid comparison |
+| 74  | Search a 2D Matrix  | Medium     | treat 2D matrix as flattened 1D array |
 | 875 | Koko Eating Bananas | Medium     | Binary search on answer space - monotonic predicate |
-| 153 | Find Minimum in Rotated Sorted Array | Medium     | pivot detection, compare mid to right anchor        |
+| 153 | Find Minimum in Rotated Sorted Array | Medium     | pivot detection, compare mid to right anchor |
+| 33  | Search in Rotated Sorted Array | Medium     | identify sorted half, then decide range|
