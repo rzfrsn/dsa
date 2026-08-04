@@ -36,7 +36,7 @@ dsa/
 | Two Pointers | 4               | 🔥 Done       |
 | Sliding Window | 4               | 🔥 Done       |
 | Stack | 5               | 🔥 Done  |
-| Binary Search | 5               | ✨ In progress    |
+| Binary Search | 6               | ✨ In progress    |
 | Trees | 0               | ⏳ Upcoming    |
 | Graphs | 0               | ⏳ Upcoming    |
 
@@ -90,3 +90,4 @@ dsa/
 | 875 | Koko Eating Bananas | Medium     | Binary search on answer space - monotonic predicate |
 | 153 | Find Minimum in Rotated Sorted Array | Medium     | pivot detection, compare mid to right anchor |
 | 33  | Search in Rotated Sorted Array | Medium     | identify sorted half, then decide range|
+| 981 | Time Based Key-Value Store | Medium     | largest timestamp <= target|
