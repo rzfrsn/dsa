@@ -13,6 +13,7 @@ dsa/
   sliding-window/
   stack/
   binary-search/
+  linked-list/
   trees/
   graphs/
   ... 
@@ -30,15 +31,16 @@ dsa/
 
 ## 🚀 Progress
 
-| Pattern | Problems solved | Status        |
-|---|-----------------|---------------|
+| Pattern          | Problems solved | Status        |
+|------------------|-----------------|---------------|
 | Arrays & Hashing | 9               | 🔥 Done       |
-| Two Pointers | 4               | 🔥 Done       |
-| Sliding Window | 4               | 🔥 Done       |
-| Stack | 5               | 🔥 Done  |
-| Binary Search | 6               | ✨ In progress    |
-| Trees | 0               | ⏳ Upcoming    |
-| Graphs | 0               | ⏳ Upcoming    |
+| Two Pointers     | 4               | 🔥 Done       |
+| Sliding Window   | 4               | 🔥 Done       |
+| Stack            | 5               | 🔥 Done  |
+| Binary Search    | 6               | 🔥 Done    |
+| Linked List      | 1               | ✨ In progress    |
+| Trees            | 0               | ⏳ Upcoming    |
+| Graphs           | 0               | ⏳ Upcoming    |
 
 ---
 
@@ -91,3 +93,8 @@ dsa/
 | 153 | Find Minimum in Rotated Sorted Array | Medium     | pivot detection, compare mid to right anchor |
 | 33  | Search in Rotated Sorted Array | Medium     | identify sorted half, then decide range|
 | 981 | Time Based Key-Value Store | Medium     | largest timestamp <= target|
+
+### Linked List
+| #   | Problem             | Difficulty | Pattern                                  |
+|-----|---------------------|------------|------------------------------------------|
+| 206 | Reverse Linked List | Easy       | three pointers (previous, current, next) |
