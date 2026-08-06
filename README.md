@@ -38,7 +38,7 @@ dsa/
 | Sliding Window   | 4               | 🔥 Done       |
 | Stack            | 5               | 🔥 Done  |
 | Binary Search    | 6               | 🔥 Done    |
-| Linked List      | 1               | ✨ In progress    |
+| Linked List      | 2               | ✨ In progress    |
 | Trees            | 0               | ⏳ Upcoming    |
 | Graphs           | 0               | ⏳ Upcoming    |
 
@@ -98,3 +98,4 @@ dsa/
 | #   | Problem             | Difficulty | Pattern                                  |
 |-----|---------------------|------------|------------------------------------------|
 | 206 | Reverse Linked List | Easy       | three pointers (previous, current, next) |
+| 21  | Merge Two Sorted List | Easy       | dummy not, moving tail forward           |
