@@ -16,6 +16,7 @@ dsa/
   linked-list/
   trees/
   graphs/
+  misc/
   ... 
 ```
 
@@ -100,3 +101,9 @@ dsa/
 | 206 | Reverse Linked List | Easy       | three pointers (previous, current, next)         |
 | 21  | Merge Two Sorted List | Easy       | dummy not, moving tail forward                   |
 | 141 | Linked List Cycle | Easy       | Floyd's cycle detection (fast and slow pointers) |
+
+### Misc 🎮
+| #   | Problem             | Difficulty | Pattern                                          |
+|-----|---------------------|------------|--------------------------------------------------|
+| 268 | Missing Number | Easy       | missing number between 0 and n (Array.length)        |
+
