@@ -39,7 +39,7 @@ dsa/
 | Sliding Window   | 4               | 🔥 Done       |
 | Stack            | 5               | 🔥 Done  |
 | Binary Search    | 6               | 🔥 Done    |
-| Linked List      | 3               | ✨ In progress    |
+| Linked List      | 4               | ✨ In progress    |
 | Trees            | 0               | ⏳ Upcoming    |
 | Graphs           | 0               | ⏳ Upcoming    |
 
@@ -95,13 +95,14 @@ dsa/
 | 33  | Search in Rotated Sorted Array | Medium     | identify sorted half, then decide range|
 | 981 | Time Based Key-Value Store | Medium     | largest timestamp <= target|
 
-### Linked List
+### Linked List 
 | #   | Problem               | Difficulty | Pattern                                          |
 |-----|-----------------------|------------|--------------------------------------------------|
 | 206 | Reverse Linked List   | Easy       | three pointers (previous, current, next)         |
 | 21  | Merge Two Sorted List | Easy       | dummy not, moving tail forward                   |
 | 141 | Linked List Cycle     | Easy       | Floyd's cycle detection (fast and slow pointers) |
 | 2   | Add Two Numbers       | Medium     | digit-by-digit addition with carry |
+| 143 | Reorder List          | Medium     | find mid, reverse second half, merge alternately |
 
 ### Misc 🎮
 | #   | Problem             | Difficulty | Pattern                                          |
