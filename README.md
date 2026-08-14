@@ -39,7 +39,7 @@ dsa/
 | Sliding Window   | 4               | 🔥 Done       |
 | Stack            | 5               | 🔥 Done  |
 | Binary Search    | 6               | 🔥 Done    |
-| Linked List      | 6               | ✨ In progress    |
+| Linked List      | 8               | ✨ In progress    |
 | Trees            | 0               | ⏳ Upcoming    |
 | Graphs           | 0               | ⏳ Upcoming    |
 
@@ -96,16 +96,16 @@ dsa/
 | 981 | Time Based Key-Value Store | Medium     | largest timestamp <= target|
 
 ### Linked List 
-| #   | Problem                          | Difficulty | Pattern                                          |
-|-----|----------------------------------|------------|--------------------------------------------------|
-| 206 | Reverse Linked List              | Easy       | three pointers (previous, current, next)         |
-| 21  | Merge Two Sorted List            | Easy       | dummy not, moving tail forward                   |
-| 141 | Linked List Cycle                | Easy       | Floyd's cycle detection (fast and slow pointers) |
-| 2   | Add Two Numbers                  | Medium     | digit-by-digit addition with carry               |
-| 143 | Reorder List                     | Medium     | find mid, reverse second half, merge alternately |
-| 19  | Remove Nth Node From End of List | Medium     | dummy + gap                                      |
-| 138 | Copy List with Random Pointer    | Medium     | HashMap mapping old node to new node (two-pass)                                    |
-
+| #   | Problem                          | Difficulty | Pattern                                                             |
+|-----|----------------------------------|------------|---------------------------------------------------------------------|
+| 206 | Reverse Linked List              | Easy       | three pointers (previous, current, next)                            |
+| 21  | Merge Two Sorted List            | Easy       | dummy not, moving tail forward                                      |
+| 141 | Linked List Cycle                | Easy       | Floyd's cycle detection (fast and slow pointers)                    |
+| 2   | Add Two Numbers                  | Medium     | digit-by-digit addition with carry                                  |
+| 143 | Reorder List                     | Medium     | find mid, reverse second half, merge alternately                    |
+| 19  | Remove Nth Node From End of List | Medium     | dummy + gap                                                         |
+| 138 | Copy List with Random Pointer    | Medium     | HashMap mapping old node to new node (two-pass)                     |
+| 287 | Find The Duplicate Number        | Medium     | Floyd's Cycle Detection on implicit linked list (array as pointers) |
 
 ### Misc 🎮
 | #   | Problem             | Difficulty | Pattern                                          |
