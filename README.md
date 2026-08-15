@@ -37,10 +37,10 @@ dsa/
 | Arrays & Hashing | 9               | 🔥 Done       |
 | Two Pointers     | 4               | 🔥 Done       |
 | Sliding Window   | 4               | 🔥 Done       |
-| Stack            | 5               | 🔥 Done  |
-| Binary Search    | 6               | 🔥 Done    |
-| Linked List      | 8               | ✨ In progress    |
-| Trees            | 0               | ⏳ Upcoming    |
+| Stack            | 5               | 🔥 Done       |
+| Binary Search    | 6               | 🔥 Done       |
+| Linked List      | 9               | 🔥 Done       |
+| Trees            | 0               | ✨ In Progress |
 | Graphs           | 0               | ⏳ Upcoming    |
 
 ---
@@ -106,6 +106,7 @@ dsa/
 | 19  | Remove Nth Node From End of List | Medium     | dummy + gap                                                         |
 | 138 | Copy List with Random Pointer    | Medium     | HashMap mapping old node to new node (two-pass)                     |
 | 287 | Find The Duplicate Number        | Medium     | Floyd's Cycle Detection on implicit linked list (array as pointers) |
+| 146 | LRU Cache                        | Medium     | Double Linked List - LRU Cache 🥵🥵                                 |
 
 ### Misc 🎮
 | #   | Problem             | Difficulty | Pattern                                          |
