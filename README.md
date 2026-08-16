@@ -40,7 +40,7 @@ dsa/
 | Stack            | 5               | 🔥 Done       |
 | Binary Search    | 6               | 🔥 Done       |
 | Linked List      | 9               | 🔥 Done       |
-| Trees            | 0               | ✨ In Progress |
+| Trees            | 1               | ✨ In Progress |
 | Graphs           | 0               | ⏳ Upcoming    |
 
 ---
@@ -107,6 +107,13 @@ dsa/
 | 138 | Copy List with Random Pointer    | Medium     | HashMap mapping old node to new node (two-pass)                     |
 | 287 | Find The Duplicate Number        | Medium     | Floyd's Cycle Detection on implicit linked list (array as pointers) |
 | 146 | LRU Cache                        | Medium     | Double Linked List - LRU Cache 🥵🥵                                 |
+
+### Trees
+| #   | Problem            | Difficulty | Pattern                                   |
+|-----|--------------------|------------|-------------------------------------------|
+| 226 | Invert Binary Tree | Easy       | recursive loop on tree (left then right)  |        |
+
+
 
 ### Misc 🎮
 | #   | Problem             | Difficulty | Pattern                                          |
