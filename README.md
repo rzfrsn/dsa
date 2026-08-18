@@ -40,7 +40,7 @@ dsa/
 | Stack            | 5               | 🔥 Done       |
 | Binary Search    | 6               | 🔥 Done       |
 | Linked List      | 9               | 🔥 Done       |
-| Trees            | 4               | ✨ In Progress |
+| Trees            | 5               | ✨ In Progress |
 | Graphs           | 0               | ⏳ Upcoming    |
 
 ---
@@ -108,13 +108,14 @@ dsa/
 | 287 | Find The Duplicate Number        | Medium     | Floyd's Cycle Detection on implicit linked list (array as pointers) |
 | 146 | LRU Cache                        | Medium     | Double Linked List - LRU Cache 🥵🥵                                 |
 
-### Trees
-| #   | Problem                      | Difficulty | Pattern                                                                    |
-|-----|------------------------------|------------|----------------------------------------------------------------------------|
-| 226 | Invert Binary Tree           | Easy       | recursive loop on tree (left then right)                                         |
-| 104 | Maximum Depth Of Binary Tree | Easy       | recursive loop on tree (left then right) + value iteration                       |
-| 543 | Diameter Of Binary Tree      | Easy       | recursive loop on tree (left then right) + value iteration + global variable        |
-| 100 | Same Tree                    | Easy       | recursive loop, vertices comparison   |
+### Trees 
+| #   | Problem                      | Difficulty | Pattern                                 |
+|-----|------------------------------|------------|-----------------------------------------|
+| 226 | Invert Binary Tree           | Easy       | recursive loop on tree (left then right) |
+| 104 | Maximum Depth Of Binary Tree | Easy       | recursive loop on tree (left then right) + value iteration |
+| 543 | Diameter Of Binary Tree      | Easy       | recursive loop on tree (left then right) + value iteration + global variable |
+| 100 | Same Tree                    | Easy       | recursive loop, vertices comparison     |
+| 572 | Subtree of Another Tree      | Easy       | Trees - recursive loop, subtree search, subtree comparison                                        |
 
 
 ### Misc 🎮
