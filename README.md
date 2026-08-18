@@ -40,7 +40,7 @@ dsa/
 | Stack            | 5               | 🔥 Done       |
 | Binary Search    | 6               | 🔥 Done       |
 | Linked List      | 9               | 🔥 Done       |
-| Trees            | 3               | ✨ In Progress |
+| Trees            | 4               | ✨ In Progress |
 | Graphs           | 0               | ⏳ Upcoming    |
 
 ---
@@ -109,11 +109,12 @@ dsa/
 | 146 | LRU Cache                        | Medium     | Double Linked List - LRU Cache 🥵🥵                                 |
 
 ### Trees
-| #   | Problem                      | Difficulty | Pattern                                                                      |
-|-----|------------------------------|------------|------------------------------------------------------------------------------|
-| 226 | Invert Binary Tree           | Easy       | recursive loop on tree (left then right)                                     |        |
-| 104 | Maximum Depth Of Binary Tree | Easy       | recursive loop on tree (left then right) + value iteration                   |        |
-| 543 | Diameter Of Binary Tree      | Easy       | recursive loop on tree (left then right) + value iteration + global variable |        |
+| #   | Problem                      | Difficulty | Pattern                                                                    |
+|-----|------------------------------|------------|----------------------------------------------------------------------------|
+| 226 | Invert Binary Tree           | Easy       | recursive loop on tree (left then right)                                         |
+| 104 | Maximum Depth Of Binary Tree | Easy       | recursive loop on tree (left then right) + value iteration                       |
+| 543 | Diameter Of Binary Tree      | Easy       | recursive loop on tree (left then right) + value iteration + global variable        |
+| 100 | Same Tree                    | Easy       | recursive loop, vertices comparison   |
 
 
 ### Misc 🎮
