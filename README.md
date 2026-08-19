@@ -40,7 +40,7 @@ dsa/
 | Stack            | 5               | 🔥 Done       |
 | Binary Search    | 6               | 🔥 Done       |
 | Linked List      | 9               | 🔥 Done       |
-| Trees            | 5               | ✨ In Progress |
+| Trees            | 6               | ✨ In Progress |
 | Graphs           | 0               | ⏳ Upcoming    |
 
 ---
@@ -115,7 +115,8 @@ dsa/
 | 104 | Maximum Depth Of Binary Tree | Easy       | recursive loop on tree (left then right) + value iteration |
 | 543 | Diameter Of Binary Tree      | Easy       | recursive loop on tree (left then right) + value iteration + global variable |
 | 100 | Same Tree                    | Easy       | recursive loop, vertices comparison     |
-| 572 | Subtree of Another Tree      | Easy       | Trees - recursive loop, subtree search, subtree comparison                                        |
+| 572 | Subtree of Another Tree      | Easy       | Trees - recursive loop, subtree search, subtree comparison                                        |**
+| 235 | Lowest Common Ancestor of a Binary Search Tree     | Medium     | BST — exploit ordering property to navigate toward LCA                                       |**
 
 
 ### Misc 🎮
