@@ -1,0 +1,32 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
+    /**
+     * Pattern : Trees - BST validation, shrinking (min, max) bounds passed as parameters
+     * Time : O(n) | Space : O(n)
+     * 98. Validate Binary Search Tree
+     */
+    public boolean isValidBST(TreeNode root) {
+        return validate(root, Long.MIN_VALUE, Long.MAX_VALUE);
+    }
+
+    private boolean validate(TreeNode node, long min, long max) {
+        if(node == null) return true;
+        if(!(min < node.val  && node.val < max)) return false;
+
+        return validate(node.left, min, node.val) && validate(node.right, node.val, max);
+    }
+}
