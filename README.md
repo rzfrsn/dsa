@@ -109,18 +109,19 @@ dsa/
 | 146 | LRU Cache                        | Medium     | Double Linked List - LRU Cache 🥵🥵                                 |
 
 ### Trees 
-| #    | Problem                                        | Difficulty | Pattern                                                              |
-|------|------------------------------------------------|------------|----------------------------------------------------------------------|
-| 226  | Invert Binary Tree                             | Easy       | recursive loop on tree (left then right)                             |
-| 104  | Maximum Depth Of Binary Tree                   | Easy       | recursive loop on tree (left then right) + value iteration           |
-| 543  | Diameter Of Binary Tree                        | Easy       | recursive loop on tree (left then right) + value iteration + global variable |
-| 100  | Same Tree                                      | Easy       | recursive loop, vertices comparison                                  |
-| 572  | Subtree of Another Tree                        | Easy       | recursive loop, subtree search, subtree comparison                   |
-| 235  | Lowest Common Ancestor of a Binary Search Tree | Medium     | BST, exploit ordering property to navigate toward LCA                |
-| 102  | Binary Tree Level Order Traversal              | Medium     | BFS                                                                  |
-| 199  | Binary Tree Right Side View                    | Medium     | BFS, capture last node per level                                     |
-| 1448 | Count Good Nodes in Binary Tree                | Medium     | DFS, pass max-so-far as parameter (not global state)                 |
-| 98   | Validate Binary Search Tree                    | Medium     | BST, validation, shrinking (min, max) bounds passed as parameters    |
+| #   | Problem                                        | Difficulty | Pattern                                                                      |
+|-----|------------------------------------------------|------------|------------------------------------------------------------------------------|
+| 226 | Invert Binary Tree                             | Easy       | recursive loop on tree (left then right)                                     |
+| 104 | Maximum Depth Of Binary Tree                   | Easy       | recursive loop on tree (left then right) + value iteration                   |
+| 543 | Diameter Of Binary Tree                        | Easy       | recursive loop on tree (left then right) + value iteration + global variable |
+| 100 | Same Tree                                      | Easy       | recursive loop, vertices comparison                                          |
+| 572 | Subtree of Another Tree                        | Easy       | recursive loop, subtree search, subtree comparison                           |
+| 235 | Lowest Common Ancestor of a Binary Search Tree | Medium     | BST, exploit ordering property to navigate toward LCA                        |
+| 102 | Binary Tree Level Order Traversal              | Medium     | BFS                                                                          |
+| 199 | Binary Tree Right Side View                    | Medium     | BFS, capture last node per level                                             |
+| 1448 | Count Good Nodes in Binary Tree                | Medium     | DFS, pass max-so-far as parameter (not global state)                         |
+| 98  | Validate Binary Search Tree                    | Medium     | BST, validation, shrinking (min, max) bounds passed as parameters            |
+| 230 | Kth Smallest Element in a BST                    | Medium     | BST, in order traversal                                                      |
 
 ### Misc 🎮
 | #   | Problem             | Difficulty | Pattern                                          |
