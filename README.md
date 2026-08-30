@@ -42,8 +42,8 @@ dsa/
 | Stack                   | 5               | 🔥 Done       |
 | Binary Search           | 6               | 🔥 Done       |
 | Linked List             | 9               | 🔥 Done       |
-| Trees                   | 12              | ✨ In Progress |
-| Graphs                  | 0               | ⏳ Upcoming    |
+| Trees                   | 12              | 🔥 Done |
+| Graphs                  | 1               | ✨ In Progress   |
 | Heap / Priority Queue   | 0               | ⏳ Upcoming    |
 | 1-D Dynamic Programming | 0               | ⏳ Upcoming    |
 
@@ -127,6 +127,12 @@ dsa/
 | 98   | Validate Binary Search Tree                    | Medium | BST, validation, shrinking (min, max) bounds passed as parameters     |
 | 230  | Kth Smallest Element in a BST                    | Medium | BST, in order traversal                                               |
 | 105  | Construct Binary Tree from Preorder and Inorder Traversal | Medium | DFS, split preorder/inorder via root index (naive, with array copies) |
+
+### Graphs
+| #   | Problem           | Difficulty | Pattern                                                               |
+|-----|-------------------|------------|-----------------------------------------------------------------------|
+| 200 | Number of Islands | Medium     | Graphs - DFS/BFS on 2D grid, mark visited cells                              |
+
 
 ### Misc 🎮
 | #   | Problem             | Difficulty | Pattern                                          |
