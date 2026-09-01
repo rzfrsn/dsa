@@ -43,7 +43,7 @@ dsa/
 | Binary Search           | 6               | 🔥 Done       |
 | Linked List             | 9               | 🔥 Done       |
 | Trees                   | 12              | 🔥 Done |
-| Graphs                  | 2               | ✨ In Progress   |
+| Graphs                  | 3               | ✨ In Progress   |
 | Heap / Priority Queue   | 0               | ⏳ Upcoming    |
 | 1-D Dynamic Programming | 0               | ⏳ Upcoming    |
 
@@ -133,7 +133,7 @@ dsa/
 |-----|--------------------|------------|-------------------------------|
 | 200 | Number of Islands  | Medium     | Graphs - DFS/BFS on 2D grid, mark visited cells |
 | 695 | Max Area of Island | Medium     | Graphs - DFS/BFS on 2D grid, sum connected cells (island area) |
-
+| 133 | Clone Graph        | Medium     | Graphs - DFS, HashMap mapping original to copy (handles cycles) |
 
 ### Misc 🎮
 | #   | Problem             | Difficulty | Pattern                                          |
