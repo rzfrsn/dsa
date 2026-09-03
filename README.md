@@ -43,7 +43,7 @@ dsa/
 | Binary Search           | 6               | 🔥 Done       |
 | Linked List             | 9               | 🔥 Done       |
 | Trees                   | 12              | 🔥 Done |
-| Graphs                  | 4               | ✨ In Progress   |
+| Graphs                  | 5               | ✨ In Progress   |
 | Heap / Priority Queue   | 0               | ⏳ Upcoming    |
 | 1-D Dynamic Programming | 0               | ⏳ Upcoming    |
 
@@ -129,12 +129,13 @@ dsa/
 | 105  | Construct Binary Tree from Preorder and Inorder Traversal | Medium | DFS, split preorder/inorder via root index (naive, with array copies) |
 
 ### Graphs
-| #   | Problem            | Difficulty | Pattern                                                         |
-|-----|--------------------|------------|-----------------------------------------------------------------|
-| 200 | Number of Islands  | Medium     | Graphs - DFS/BFS on 2D grid, mark visited cells                 |
-| 695 | Max Area of Island | Medium     | Graphs - DFS/BFS on 2D grid, sum connected cells (island area)  |
-| 133 | Clone Graph        | Medium     | Graphs - DFS, HashMap mapping original to copy (handles cycles) |
-| 994 | Rotting Oranges    | Medium     | Graphs - Multi-souce BFS on 2D grid                             |
+| #   | Problem                     | Difficulty | Pattern                                                         |
+|-----|-----------------------------|------------|-----------------------------------------------------------------|
+| 200 | Number of Islands           | Medium     | Graphs - DFS/BFS on 2D grid, mark visited cells                 |
+| 695 | Max Area of Island          | Medium     | Graphs - DFS/BFS on 2D grid, sum connected cells (island area)  |
+| 133 | Clone Graph                 | Medium     | Graphs - DFS, HashMap mapping original to copy (handles cycles) |
+| 994 | Rotting Oranges             | Medium     | Graphs - Multi-souce BFS on 2D grid                             |
+| 417 | Pacific Atlantic Water Flow | Medium     | Graphs - DFS from ocean borders, reverse flow condition                             |
 
 ### Misc 🎮
 | #   | Problem             | Difficulty | Pattern                                          |
