@@ -43,7 +43,7 @@ dsa/
 | Binary Search           | 6               | 🔥 Done       |
 | Linked List             | 9               | 🔥 Done       |
 | Trees                   | 12              | 🔥 Done |
-| Graphs                  | 5               | ✨ In Progress   |
+| Graphs                  | 6               | ✨ In Progress   |
 | Heap / Priority Queue   | 0               | ⏳ Upcoming    |
 | 1-D Dynamic Programming | 0               | ⏳ Upcoming    |
 
@@ -135,7 +135,8 @@ dsa/
 | 695 | Max Area of Island          | Medium     | Graphs - DFS/BFS on 2D grid, sum connected cells (island area)  |
 | 133 | Clone Graph                 | Medium     | Graphs - DFS, HashMap mapping original to copy (handles cycles) |
 | 994 | Rotting Oranges             | Medium     | Graphs - Multi-souce BFS on 2D grid                             |
-| 417 | Pacific Atlantic Water Flow | Medium     | Graphs - DFS from ocean borders, reverse flow condition                             |
+| 417 | Pacific Atlantic Water Flow | Medium     | Graphs - DFS from ocean borders, reverse flow condition         |
+| 130 | Surrounded Regions          | Medium     | Graphs - DFS, explore from borders                              |
 
 ### Misc 🎮
 | #   | Problem             | Difficulty | Pattern                                          |
