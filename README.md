@@ -43,7 +43,7 @@ dsa/
 | Binary Search           | 6               | 🔥 Done       |
 | Linked List             | 9               | 🔥 Done       |
 | Trees                   | 12              | 🔥 Done |
-| Graphs                  | 6               | ✨ In Progress   |
+| Graphs                  | 7               | ✨ In Progress   |
 | Heap / Priority Queue   | 0               | ⏳ Upcoming    |
 | 1-D Dynamic Programming | 0               | ⏳ Upcoming    |
 
@@ -137,6 +137,7 @@ dsa/
 | 994 | Rotting Oranges             | Medium     | Graphs - Multi-souce BFS on 2D grid                             |
 | 417 | Pacific Atlantic Water Flow | Medium     | Graphs - DFS from ocean borders, reverse flow condition         |
 | 130 | Surrounded Regions          | Medium     | Graphs - DFS, explore from borders                              |
+| 207 | Course Schedule             | Medium     | Graphs - DFS, Cycle Detection in a Directed Graph (3-state marking)|
 
 ### Misc 🎮
 | #   | Problem             | Difficulty | Pattern                                          |
