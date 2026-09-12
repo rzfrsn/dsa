@@ -139,7 +139,9 @@ dsa/
 | 130 | Surrounded Regions          | Medium     | Graphs - DFS, explore from borders                                  |
 | 207 | Course Schedule             | Medium     | Graphs - DFS, Cycle Detection in a Directed Graph (3-state marking) |
 | 210 | Course Schedule II          | Medium     | Graphs - DFS, Cycle Detection + Topological Sort (3-state marking)  |
-| 684 | Redundant Connection          | Medium     | Graphs - Union Find, detect cycle via same-group check              |
+| 684 | Redundant Connection        | Medium     | Graphs - Union Find, detect cycle via same-group check              |
+| 261 | Graph Valid Tree            | Medium     | Graphs - Union Find, check edge count + no cycle              |
+| 261 | Graph Valid Tree            | Medium     | Graphs - Union Find, check edge count + no cycle              |
 
 
 ### Misc 🎮
