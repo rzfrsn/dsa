@@ -129,19 +129,20 @@ dsa/
 | 105  | Construct Binary Tree from Preorder and Inorder Traversal | Medium | DFS, split preorder/inorder via root index (naive, with array copies) |
 
 ### Graphs
-| #   | Problem                     | Difficulty | Pattern                                                             |
-|-----|-----------------------------|------------|---------------------------------------------------------------------|
-| 200 | Number of Islands           | Medium     | Graphs - DFS/BFS on 2D grid, mark visited cells                     |
-| 695 | Max Area of Island          | Medium     | Graphs - DFS/BFS on 2D grid, sum connected cells (island area)      |
-| 133 | Clone Graph                 | Medium     | Graphs - DFS, HashMap mapping original to copy (handles cycles)     |
-| 994 | Rotting Oranges             | Medium     | Graphs - Multi-souce BFS on 2D grid                                 |
-| 417 | Pacific Atlantic Water Flow | Medium     | Graphs - DFS from ocean borders, reverse flow condition             |
-| 130 | Surrounded Regions          | Medium     | Graphs - DFS, explore from borders                                  |
-| 207 | Course Schedule             | Medium     | Graphs - DFS, Cycle Detection in a Directed Graph (3-state marking) |
-| 210 | Course Schedule II          | Medium     | Graphs - DFS, Cycle Detection + Topological Sort (3-state marking)  |
-| 684 | Redundant Connection        | Medium     | Graphs - Union Find, detect cycle via same-group check              |
-| 261 | Graph Valid Tree            | Medium     | Graphs - Union Find, check edge count + no cycle              |
-| 261 | Graph Valid Tree            | Medium     | Graphs - Union Find, check edge count + no cycle              |
+| #   | Problem                                                | Difficulty | Pattern                                                 |
+|-----|--------------------------------------------------------|------------|---------------------------------------------------------|
+| 200 | Number of Islands                                      | Medium     | Graphs - DFS/BFS on 2D grid, mark visited cells         |
+| 695 | Max Area of Island                                     | Medium     | Graphs - DFS/BFS on 2D grid, sum connected cells (island area) |
+| 133 | Clone Graph                                            | Medium     | Graphs - DFS, HashMap mapping original to copy (handles cycles) |
+| 994 | Rotting Oranges                                        | Medium     | Graphs - Multi-souce BFS on 2D grid                     |
+| 417 | Pacific Atlantic Water Flow                            | Medium     | Graphs - DFS from ocean borders, reverse flow condition |
+| 130 | Surrounded Regions                                     | Medium     | Graphs - DFS, explore from borders                      |
+| 207 | Course Schedule                                        | Medium     | Graphs - DFS, Cycle Detection in a Directed Graph (3-state marking) |
+| 210 | Course Schedule II                                     | Medium     | Graphs - DFS, Cycle Detection + Topological Sort (3-state marking) |
+| 684 | Redundant Connection                                   | Medium     | Graphs - Union Find, detect cycle via same-group check  |
+| 261 | Graph Valid Tree                                       | Medium     | Graphs - Union Find, check edge count + no cycle  |
+| 261 | Graph Valid Tree                                       | Medium     | Graphs - Union Find, check edge count + no cycle  |
+| 323 | Number of Connected Components in an Undirected Graph  | Medium     | Graphs - Union Find, count distinct root groups  |
 
 
 ### Misc 🎮
