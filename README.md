@@ -143,7 +143,7 @@ dsa/
 | 261 | Graph Valid Tree                                       | Medium     | Graphs - Union Find, check edge count + no cycle  |
 | 261 | Graph Valid Tree                                       | Medium     | Graphs - Union Find, check edge count + no cycle  |
 | 323 | Number of Connected Components in an Undirected Graph  | Medium     | Graphs - Union Find, count distinct root groups  |
-
+| 286 | Walls and Gates (Islands an Treasure)  | Medium     | Graphs - Multi-souce BFS on 2D grid   |
 
 ### Misc 🎮
 | #   | Problem             | Difficulty | Pattern                                          |
