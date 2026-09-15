@@ -145,6 +145,11 @@ dsa/
 | 323 | Number of Connected Components in an Undirected Graph  | Medium     | Graphs - Union Find, count distinct root groups  |
 | 286 | Walls and Gates (Islands an Treasure)  | Medium     | Graphs - Multi-souce BFS on 2D grid   |
 
+### Heap
+| #   | Problem             | Difficulty | Pattern                                          |
+|-----|---------------------|------------|--------------------------------------------------|
+| 703 | Kth Largest Element in a Stream | Easy       | Heap - min-heap of size k, keeps k largest elements |
+
 ### Misc 🎮
 | #   | Problem             | Difficulty | Pattern                                          |
 |-----|---------------------|------------|--------------------------------------------------|
