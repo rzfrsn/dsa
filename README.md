@@ -43,8 +43,8 @@ dsa/
 | Binary Search           | 6               | 🔥 Done       |
 | Linked List             | 9               | 🔥 Done       |
 | Trees                   | 12              | 🔥 Done |
-| Graphs                  | 9               | ✨ In Progress   |
-| Heap / Priority Queue   | 0               | ⏳ Upcoming    |
+| Graphs                  | 12              | 🔥 Done   |
+| Heap / Priority Queue   | 2               | ✨ In Progress   |
 | 1-D Dynamic Programming | 0               | ⏳ Upcoming    |
 
 ---
@@ -146,9 +146,10 @@ dsa/
 | 286 | Walls and Gates (Islands an Treasure)  | Medium     | Graphs - Multi-souce BFS on 2D grid   |
 
 ### Heap
-| #   | Problem             | Difficulty | Pattern                                          |
-|-----|---------------------|------------|--------------------------------------------------|
-| 703 | Kth Largest Element in a Stream | Easy       | Heap - min-heap of size k, keeps k largest elements |
+| #    | Problem             | Difficulty | Pattern                                                     |
+|------|---------------------|------------|-------------------------------------------------------------|
+| 703  | Kth Largest Element in a Stream | Easy       | Heap - min-heap of size k, keeps k largest elements         |
+| 1046 | Last Stone Weight | Easy       | Heap - max-heap, simulate repeated max extraction and reinsertion |
 
 ### Misc 🎮
 | #   | Problem             | Difficulty | Pattern                                          |
