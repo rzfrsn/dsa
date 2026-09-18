@@ -44,7 +44,7 @@ dsa/
 | Linked List             | 9               | 🔥 Done       |
 | Trees                   | 12              | 🔥 Done |
 | Graphs                  | 12              | 🔥 Done   |
-| Heap / Priority Queue   | 3               | ✨ In Progress   |
+| Heap / Priority Queue   | 4               | ✨ In Progress   |
 | 1-D Dynamic Programming | 0               | ⏳ Upcoming    |
 
 ---
@@ -151,6 +151,7 @@ dsa/
 | 703  | Kth Largest Element in a Stream | Easy       | Heap - min-heap of size k, keeps k largest elements         |
 | 1046 | Last Stone Weight | Easy       | Heap - max-heap, simulate repeated max extraction and reinsertion |
 | 973  | K Closest Points to Origin | Medium     | Heap - max-heap, simulate repeated max extraction and reinsertion |
+| 215  | Kth Largest Element in an Array | Medium     | Heap - Top K pattern (min-heap of size k) |
 
 ### Misc 🎮
 | #   | Problem             | Difficulty | Pattern                                          |
